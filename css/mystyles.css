@@ -1,0 +1,51 @@
+nav{
+    background-color:#2c3e50;
+    text-align: center;
+}
+
+nav a{
+    color: whitesmoke;
+    font-size:25px;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Beginning{
+    text-align:center;
+    font-size: 25px;
+    color:rgb(84, 169, 226);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width:15%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#video{
+    text-align: center;
+    color:black;
+}
+
+.header{
+    font-weight:bold;
+}
+
+#title{
+    color:black;
+    text-align: center;
+}
+
+body{
+    background-color:rgb(245, 253, 255);
+}
+
+#professional{
+    border-radius: 8px;
+}
+
+#it{
+    font-style: italic;
+}
